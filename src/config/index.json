@@ -1,0 +1,153 @@
+{
+  "company": {
+    "name": "React landing page 2021",
+    "logo": "/assets/Logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Product",
+      "href": "product"
+    },
+    {
+      "name": "Features",
+      "href": "features"
+    },
+
+    {
+      "name": "Pricing",
+      "href": "pricing"
+    },
+    {
+      "name": "About",
+      "href": "about"
+    }
+  ],
+  "callToAction": {
+    "text": "Get started",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "UNLEASH THE POWER OF",
+    "subtitle": "AI BASED EXPERIMENTATION",
+    "description": "Twinmo is revolutionizing the way companies develop products. With Testrunz, our AI-powered experimentation platform, businesses can accelerate every phase of product development, from discovery and innovation to compliance testing and manufacturing.",
+    "img": "/assets/Home.avif",
+    "primaryAction": {
+      "text": "Get started",
+      "href": "#"
+    },
+    "secondaryAction": {
+      "text": "Email us",
+      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+    }
+  },
+  "product": {
+    "title": "Platforms",
+    "items": [
+      {
+        "title": "Testrunz",
+        "description": "Introducing Testrunz, your streamlined solution for executing and tracking product experiments. Testrunz connects to industry-standard test instruments, providing real-time data, analyzing results, and generating reports.",
+        "img": "/assets/images/Testrunz.png"
+      },
+      {
+        "title": "Unity",
+        "description": "Meet Unity, our advanced hardware module designed to interface with lab instruments and facilitate a seamless connection to Testrunz. With its 20-channel capacity for thermocouple, AI, DI, DO measurements and power product measurement features.",
+        "img": "/assets/images/Unity.png"
+      }
+    ]
+  },
+  "features": {
+    "title": "Latest & greatest ",
+    "subtitle": "Key Features",
+    "description": "Here are some key features that Twinmo offers.",
+    "items": [
+      {
+        "name": "Test Library",
+        "description": "Boost Efficiency with our Ready Test Library for Seamless Testing.",
+        "icon": "/assets/images/react.png"
+      },
+      {
+        "name": "Inventory Test",
+        "description": "Manage your workflows with test input and inventory system.",
+        "icon": "/assets/images/tailwindcss.svg"
+      },
+      {
+        "name": "Auto Analysis",
+        "description": "AI engine handles calculations, offers insightful analysis.",
+        "icon": "/assets/images/nextjs.svg"
+      },
+      {
+        "name": "Live Test Charts",
+        "description": "Real-time interactive charts for dynamic test insights.",
+        "icon": "/assets/images/ts.png"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Pricing",
+    "items": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "priceDetails": "for one user",
+        "features": [
+          "1 user",
+          "Basic Support",
+          "1 GB of storage",
+          "Email support"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": "$15",
+        "priceDetails": "per user",
+
+        "features": [
+          "5 users",
+          "Priority Support",
+          "10 GB of storage",
+          "Phone and Email support"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": "$29",
+        "priceDetails": "per user",
+        "features": [
+          "50 users",
+          "24/7 Support",
+          "100 GB of storage",
+          "Phone and Email support"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "Home",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Platforms",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Features",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Pricing",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ],
+    "socialMedia": {
+      "github": "https://github.com/issaafalkattan",
+      "twitter": "https://twitter.com/issaafkattan",
+      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+    }
+  }
+}
