@@ -5,7 +5,7 @@ const withBundleAnalyzer = require('@next/bundle-analyzer')({
 
 module.exports = withBundleAnalyzer({
    future: {
-    webpack5: true, // You might already have this line
+    webpack5: true,
     strictPostcssConfiguration: true,
   },
   poweredByHeader: false,
