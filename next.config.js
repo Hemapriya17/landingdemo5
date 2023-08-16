@@ -4,6 +4,10 @@ const withBundleAnalyzer = require('@next/bundle-analyzer')({
 });
 
 module.exports = withBundleAnalyzer({
+   future: {
+    webpack5: true, // You might already have this line
+    strictPostcssConfiguration: true,
+  },
   poweredByHeader: false,
   trailingSlash: true,
   basePath: '',
